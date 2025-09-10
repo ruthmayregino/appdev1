@@ -1,2 +1,8 @@
 This is the merge demo.
+<<<<<<< HEAD
 Main content
+=======
+Feature content
+>>>>>>> feature-merge
+
+Realization: Git merge combined the work from two branches into one. Unlike rebase, it kept the commit history from both branches, which makes the timeline easier to trace.
