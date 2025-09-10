@@ -1,1 +1,2 @@
 This is the merge demo.
+Feature content
