@@ -1,0 +1,1 @@
+Realization: The history looks cleaner with micro commits. Each commit shows one clear purpose, so it's easier to track changes.
