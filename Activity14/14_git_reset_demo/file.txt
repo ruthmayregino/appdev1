@@ -1,1 +1,3 @@
 Line 1
+
+Realization: After using git reset --hard, my file.txt went back to only having Line 1. The later commits disappeared from history, like they never happened locally.
