@@ -1,2 +1,4 @@
 Line A
 Line B
+
+Realization: Using git revert created a new commit that undid the changes from the previous commit. This is safer compared to reset because the history remains intact.
