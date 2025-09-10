@@ -1,8 +1,0 @@
-This is the rebase demo.
-<<<<<<< HEAD
-Main branch line
-=======
-Feature line
->>>>>>> d0778dc (Add feature line)
-
-Realization: Git rebase rewrites history so commits look linear, making the history cleaner. But I realized it can be risky if used on shared branches.
