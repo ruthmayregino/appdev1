@@ -1,2 +1,4 @@
 Line A
 Line B
+
+Realization: Unlike reset, revert created a new commit that undid the last change. The history is still intact, but the file no longer has Line C.
