@@ -1,0 +1,1 @@
+Realization: After merging, both histories were combined. The log shows a merge commit that clearly shows two lines of development joining together.
