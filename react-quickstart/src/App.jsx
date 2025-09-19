@@ -6,8 +6,8 @@ import './App.css'
 
 function App() {
   const user = {
-  name: 'RuthMay',
-  imageUrl: 'https://www.pinterest.com/pin/essentials-are-essential--8655424280926299/',
+  name: 'Hedy Lamarr',
+  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
   imageSize: 90,
 };
 
@@ -23,7 +23,6 @@ function App() {
           height: user.imageSize
         }}
       />
-
     </>
   )
 }
