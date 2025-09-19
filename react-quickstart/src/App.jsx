@@ -3,26 +3,30 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+function AdminPanel () {
+  return (
+  <h1> Admin Panel</h1>
+  )
+}
 
+function LoginForm () {
+  return (
+    <h1> Login Form </h1>
+  )
+}
+let content;
+
+if (false) {
+  content = <AdminPanel/>
+}
+else{
+  content = <LoginForm/>
+}
 function App() {
-  const user = {
-  name: 'Hedy Lamarr',
-  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
-  imageSize: 90,
-};
 
   return (
-    <> 
-    <h1>{user.name}</h1>
-      <img
-        className="avatar"
-        src={user.imageUrl}
-        alt={'Photo of ' + user.name}
-        style={{
-          width: user.imageSize,
-          height: user.imageSize
-        }}
-      />
+    <>
+    {content}
     </>
   )
 }
